@@ -64,9 +64,7 @@ The motion planner:
 
 ### Mode 0: Sequential Control
 
-<div align="center">
-<img src="screenshots/mode0.png" alt="Mode 0 Trajectory" width="600"/>
-</div>
+
 
 Control sequence:
 1. First rotation to face target
@@ -74,10 +72,6 @@ Control sequence:
 3. Final rotation to achieve target orientation
 
 ### Mode 1: Simultaneous Control
-
-<div align="center">
-<img src="screenshots/mode1.png" alt="Mode 1 Trajectory" width="600"/>
-</div>
 
 - Simultaneously controls both linear and angular velocities
 - Robot moves in curved trajectories
