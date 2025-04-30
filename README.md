@@ -1,4 +1,4 @@
-# 🤖 ROS Motion Planning & Controlfff
+# 🤖 ROS Motion Planning & Control
 
 <div align="center">
 
