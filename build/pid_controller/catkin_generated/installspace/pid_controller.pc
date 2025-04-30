@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Lab3_YuChun_Lin_ws/install
+
+Name: pid_controller
+Description: Description of pid_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
